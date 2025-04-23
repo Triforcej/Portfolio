@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About Me | Jared Rodriguez</title>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Jared Rodriguez</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Me</a></li>
+        <li><a href="virtual-cv.html">Virtual CV</a></li>
+        <li><a href="gallery.html">Media Gallery</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+        <img src="images/1.png" alt="Jared Rodriguez portrait" style="max-width: 250px; border-radius: 12px; margin-bottom: 1.5rem;" />
+        <p>Hello, I'm Jared. With over 20 years of experience in event production, virtual reality, and AV systems, I specialize in bringing immersive and unforgettable experiences to life. From global VR launches to intimate corporate activations, my work focuses on the intersection of emotion, technology, and precision execution.</p>
+        <p>Let’s build something that moves people.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Jared Rodriguez</p>
+  </footer>
+</body>
+</html>
+
